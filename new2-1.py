@@ -1,5 +1,0 @@
-(type(3))
-print (2+3, 2**6, 6/2)
-print(3.2569854587512566)
-print(int(6.22))
-print(float(53))
